@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React js, Nodejs , React Native , Express and bunch of other web related tech stack.**
+- 🌱 I’m currently learning **React js, Nodejs, React Native, Express, and bunch of other web-related tech stacks.**
 
-- 💬 Ask me about **react ,javascript , java , coding**
+- 💬 Ask me about **react, javascript, java, coding**
 
 - 📫 How to reach me **siddiquifaraz122001@gmail.com**
 
